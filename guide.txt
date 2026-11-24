@@ -1,0 +1,4 @@
+Activate the environment whenever you study
+
+cd llm-ai-engineering-lab
+source .venv/bin/activate
